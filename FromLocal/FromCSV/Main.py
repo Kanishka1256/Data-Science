@@ -17,3 +17,8 @@ print("Dataset of all rows successfully written to studentCSV.csv")
 temp=df.head()
 temp.to_csv("FromLocal/FromCSV/student5csv.csv",index=False)
 print("Dataset of 5 rows successfully written to student5csv.csv")
+
+# get Data from local files
+url2="FromLocal/FromCSV/student5csvLocal.csv"
+df2=pd.read_csv(url2)
+print(df2.head())
