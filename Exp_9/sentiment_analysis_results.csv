@@ -1,0 +1,6 @@
+title,review,rating,nltk_positive,nltk_negative,nltk_neutral,nltk_compound,vader_positive,vader_negative,vader_neutral,vader_compound,nltk_sentiment,vader_sentiment
+Excellent Smartphone,This smartphone has a great camera and excellent battery life.,5/5,0.527,0.0,0.473,0.8316,0.494,0.0,0.506,0.8316,Positive,Positive
+Good Product,The product works well and offers good value for money.,4/5,0.514,0.0,0.486,0.7506,0.514,0.0,0.486,0.7506,Positive,Positive
+Average Quality,"The quality is average, but the product is useful.",3/5,0.325,0.0,0.675,0.5927,0.325,0.0,0.675,0.5927,Positive,Positive
+Not Satisfied,The battery performance is poor and needs improvement.,2/5,0.248,0.256,0.496,-0.0258,0.248,0.256,0.496,-0.0258,Neutral,Neutral
+Highly Recommended,Excellent performance and easy to use. Highly recommended.,5/5,0.635,0.0,0.365,0.8268,0.635,0.0,0.365,0.8268,Positive,Positive
